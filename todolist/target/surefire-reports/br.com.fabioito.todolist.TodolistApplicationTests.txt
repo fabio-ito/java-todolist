@@ -1,4 +1,0 @@
--------------------------------------------------------------------------------
-Test set: br.com.fabioito.todolist.TodolistApplicationTests
--------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 9.255 s - in br.com.fabioito.todolist.TodolistApplicationTests
